@@ -1,0 +1,78 @@
+{
+  "guild": {
+    "id": "1220512335895072778",
+    "name": "Rob Lee's server",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1220512335895072781",
+    "type": "GuildTextChat",
+    "categoryId": "1220512335895072779",
+    "category": "Text Channels",
+    "name": "general",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2023-03-22T07:55:16.3836372+08:00",
+  "messages": [
+    {
+      "id": "1220512537909530734",
+      "type": "GuildMemberJoin",
+      "timestamp": "2023-03-22T07:21:05.064+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1220510239548248205",
+        "name": "Create",
+        "discriminator": "4824",
+        "nickname": "Create",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1220512512382861354",
+            "name": "Create",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1220520999762526259",
+      "type": "Default",
+      "timestamp": "2023-03-22T07:54:42.527+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi",
+      "author": {
+        "id": "881912156952612875",
+        "name": "roblee3188",
+        "discriminator": "0000",
+        "nickname": "Rob Lee",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}
